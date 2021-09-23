@@ -14,10 +14,10 @@ const Page: React.FC = () =>{
             <div>
                 {[
                     "Valorant",
-                    "Assassin's Creed Odyssey",
+                    "Assassin's Creed Origins",
                    " World Of Warcraft",
                     
-                   "Assassin's Creed Origins",
+                   "Assassin's Creed Unity ",
                    "Call of Duty: Warzone",
                     "Model 7",
 
