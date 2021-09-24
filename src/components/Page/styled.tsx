@@ -10,10 +10,10 @@ import bomba from '../../imagens/5.jpg'
 import bomba2 from '../../imagens/mobile/5.jpg'
 import dva2 from '../../imagens/6.jpg'
 import dvva2 from '../../imagens/mobile/6.jpg'
-import robo from '../../imagens/7.jpg'
+import oi from '../../imagens/7.jpg'
 import dva1 from '../../imagens/3.jpg'
 import dvva1 from '../../imagens/mobile/3.jpg'
-
+import gta2 from '../../imagens/mobile/7.jpg'
 
 export const Container = styled.div`
 
@@ -41,7 +41,7 @@ background-repeat:round;
 background-repeat:round;
 }
 .colored:nth-child(6) {
-    background-image: url("${robo}");
+    background-image: url("${oi}");
 background-repeat:round;
 }
 
@@ -69,7 +69,8 @@ background-repeat:round;
 background-repeat:round;
 }
 .colored:nth-child(6) {
-background: #77e68c;
+    background-image: url("${gta2}");
+background-repeat:round;
 }
  
 }

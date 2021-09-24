@@ -19,7 +19,7 @@ const Page: React.FC = () =>{
                     
                    "Assassin's Creed Unity ",
                    "Call of Duty: Warzone",
-                    "Model 7",
+                    "GTA V",
 
                 ].map(modelName=>(
                     <ModelSection
